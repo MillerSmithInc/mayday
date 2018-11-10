@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 
 class App extends Component {
@@ -14,11 +14,11 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.cosmopolitan.com/entertainment/celebs/a9631034/jon-hamm-penis-bulge-theories/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn Why Jons A Dick Here
           </a>
         </header>
       </div>
