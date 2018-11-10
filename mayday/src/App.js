@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src="https://www.cancer.org/cancer/penile-cancer/about/what-is-penile-cancer/_jcr_content/par/textimage/image.img.jpg/1530553003325.jpg" className="App-logo" alt="logo" />
           <p>
             Jon <code>is/A.dick</code> and a menance to society.
           </p>
