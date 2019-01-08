@@ -9,11 +9,16 @@ class App extends Component {
 
     this.state = { todo: "" };
   }
+
+  onSearchSubmit = (todo) => {
+    console.log(todo)
+    console.log("here")
+  }
   
   render() {
     return (
-      <div className="App">
-        <AddToDo />
+      <div className="ui container">
+        <AddToDo onSubmit={this.onSearchSubmit}/>
         <ToDoList />
       </div>
     );
